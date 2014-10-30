@@ -1,0 +1,26 @@
+# Built application files
+*.apk
+*.ap_
+
+# File for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard folder generated bu Eclipse
+proguard/
+
+# Log files
+*.log
